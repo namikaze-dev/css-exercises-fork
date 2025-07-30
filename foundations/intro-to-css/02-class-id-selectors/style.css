@@ -1,0 +1,18 @@
+.odd-num {
+	background-color: lightpink;
+	font-family: Verdana, 'DejaVu Sans', 'sans-serif';
+}
+
+#sec-elem {
+	color: blue;
+	font-size: 36px;
+}
+
+#third-elem {
+	background-color: lightgreen;
+	font-weight: bold;
+}
+
+.same-font {
+	font-size: 24px;
+}
